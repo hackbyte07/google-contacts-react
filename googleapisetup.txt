@@ -1,0 +1,2 @@
+https://developers.google.com/people/quickstart/js
+https://developers.google.com/people/v1/getting-started
