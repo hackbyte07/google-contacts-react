@@ -32,6 +32,8 @@
       "loclx"
     ],
     "onlyBuiltDependencies": [
+      "@swc/core",
+      "esbuild",
       "loclx"
     ]
   }
